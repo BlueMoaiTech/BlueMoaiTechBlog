@@ -1,6 +1,6 @@
 # BlueMoaiTechBlog
 
-> My tech blog.
+> My finest Nuxt.js project
 
 ## Build Setup
 
